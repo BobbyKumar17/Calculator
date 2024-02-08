@@ -1,0 +1,49 @@
+/* Apply background color to all elements */
+* {
+    background-color: rgba(15, 159, 232, 0.144);
+  }
+  
+  /* Style for the container holding the calculator */
+  .container {
+    text-align: center; /* Center align content */
+    width: 280px; /* Set width */
+    margin: auto; /* Center container horizontally */
+    border-radius: 22px; /* Rounded corners */
+    border: 5px solid #df2c8f; /* Border style */
+    background-color: #ffda6f; /* Background color */
+  }
+  
+  /* Style for the body */
+  body {
+    width: 600px; /* Set width */
+    margin: auto; /* Center body horizontally */
+    margin-top: 90px; /* Add top margin */
+    border: 4px solid blueviolet; /* Border style */
+  }
+  
+  /* Style for the heading */
+  h1 {
+    font-size: 40px; /* Set font size */
+    text-align: center; /* Center align text */
+    font-style: italic; /* Apply italic style */
+  }
+  
+  /* Style for the input screen */
+  #screen {
+    width: 262px; /* Set width */
+    height: 53px; /* Set height */
+    font-size: 50px; /* Set font size */
+    text-align: right; /* Right align text */
+    border: 5px solid #71dc84; /* Border style */
+    border-radius: 4px; /* Rounded corners */
+  }
+  
+  /* Style for buttons */
+  button {
+    color: rgb(246, 8, 8); /* Set text color */
+    width: 62px; /* Set width */
+    height: 49px; /* Set height */
+    border-radius: 8px; /* Rounded corners */
+    font-size: 27px; /* Set font size */
+  }
+  
